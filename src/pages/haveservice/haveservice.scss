@@ -1,0 +1,14 @@
+.background {
+    background-color: limegreen;
+}
+
+.gardencontainer {
+    color: white;
+    background-color: green;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr;
+    justify-content: space-between;
+    text-align: center;
+    padding-top: 50px;
+}
